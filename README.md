@@ -1,5 +1,5 @@
 # Restaurant Landing Page
-
+![Project Preview](preview.png)
 A clean and modern restaurant landing page built using only HTML and CSS.  
 The design focuses on simplicity, strong visuals, and balanced layout.
 
